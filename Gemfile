@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "jekyll-assets"
+gem "jekyll", ">= 3.9.0"
+gem "jekyll-assets", ">= 1.0.0"
